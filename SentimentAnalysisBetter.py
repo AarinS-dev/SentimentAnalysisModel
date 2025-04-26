@@ -65,4 +65,4 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-typewriter(text="Made with 💖 by Aarin Sandilya", speed=5)
+typewriter(text="Made with 💖 by Aarin", speed=5)
